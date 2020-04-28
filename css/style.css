@@ -21,7 +21,9 @@ body {
 
 /* Write all remaining styles here */
 
-
+#copyright{
+  float:right;
+}
 
 
 
